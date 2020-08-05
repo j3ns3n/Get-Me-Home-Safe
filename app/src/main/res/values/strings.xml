@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetMeHomeSafe</string>
+    <string name="home_button_open_map">Open Map</string>
+    <string name="home_button_plan_route">Plan A Journey</string>
+    <string name="home_button_panic_button">!!! PANIC BUTTON !!!</string>
+    <string name="home_button_panic_settings">Panic Button Settings</string>
+    <string name="home_switch_panic_off">Panic Button Disabled</string>
+    <string name="home_switch_panic_on">Panic Button Enabled</string>
+    <string name="title_activity_map">Crime_Map</string>
+    <string name="heatmap">Heatmap ON/OFF</string>
+</resources>
